@@ -1,0 +1,14 @@
+{
+  "name": "Friend Status Notifier",
+  "description": "Surveille le statut d'amis choisis, notifie quand ils passent de hors-ligne a un autre statut, et memorise leur derniere connexion vue.",
+  "authors": [
+    {
+      "name": "Negrolix"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_notification_settings"
+  },
+  "hash": "e8bba5212e822d15a593cc4ad9a04388a5ebc47bf74208e1af0d0fa5a2da6dbf"
+}
