@@ -1,6 +1,14 @@
 {
   "name": "Friend Status Notifier",
-  "description": "Notifie quand un ami passe en ligne et memorise sa derniere connexion.",
-  "authors": [{ "name": "Negrolix" }],
-  "main": "index.js"
+  "description": "Surveille le statut d'amis choisis, notifie quand ils passent de hors-ligne a un autre statut, et memorise leur derniere connexion vue.",
+  "authors": [
+    {
+      "name": "Negrolix"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_notification_settings"
+  },
+  "hash": "0e4d0c623ff31c31c812c5bbc00b20f5708a38ba4ada5a73ccbdb57e3716050c"
 }
